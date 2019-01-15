@@ -33,7 +33,7 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
 
 and evaluate these in Matlab in a folder, then, you will see the following picture:
 
-![heat_map10](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heatmap10.png)
+![heat_map10](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.png)
 
 Our publications
 --------------
