@@ -66,6 +66,18 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
 ![rmse_curve10](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve10.png)
 
 
+- **Download**
+  - [road1_fiber_ms50_r10.csv](https://github.com/xinychen/academic-drawing/blob/master/time-series/road1_fiber_ms50_r10.csv)
+  - [time_series_speed1.py](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed1.py)
+  - [time_series_speed2.py](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed2.py)
+
+and evaluate these in Python in a folder, then, you will see the following pictures:
+
+![time_series_speed1](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed1.png)
+
+![time_series_speed2](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed2.png)
+
+
 Our publications
 --------------
 
