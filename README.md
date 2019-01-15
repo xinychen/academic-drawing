@@ -37,12 +37,22 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
 
 
 - **Download**
-  - [rmse_curve.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse.mat)
+  - [rmse.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse.mat)
   - [rmse_curves.m](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curves.m)
 
 and evaluate these in Matlab in a folder, then, you will see the following picture:
 
 ![rmse_curve](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve.png)
+
+
+- **Download**
+  - [rmse10.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse10.mat)
+  - [rmse_curve10.m](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve10.m)
+
+and evaluate these in Matlab in a folder, then, you will see the following picture:
+
+![rmse_curve10](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve10.png)
+
 
 Our publications
 --------------
