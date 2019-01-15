@@ -18,7 +18,7 @@ Usage
 Our examples
 --------------
 
-- Download
+- **Download**
   - [mu10.mat](https://github.com/xinychen/academic-drawing/blob/master/curves/mu10.mat)
   - [mu_curve10.m](https://github.com/xinychen/academic-drawing/blob/master/curves/mu_curve10.m)
 
@@ -27,13 +27,22 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
 ![mu_curve10](https://github.com/xinychen/academic-drawing/blob/master/curves/mu_curve10.png)
 
 
-- Download
+- **Download**
   - [bias10.mat](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/bias10.mat)
   - [heat_map10.m](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.m)
 
 and evaluate these in Matlab in a folder, then, you will see the following picture:
 
 ![heat_map10](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.png)
+
+
+- **Download**
+  - [rmse_curve.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse.mat)
+  - [rmse_curves.m](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curves.m)
+
+and evaluate these in Matlab in a folder, then, you will see the following picture:
+
+![rmse_curve](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve.png)
 
 Our publications
 --------------
