@@ -7,8 +7,8 @@ Contents
 --------
 
 -   [Usage](#usage)
--   [Our Examples](#our-examples)
--   [Related Projects](#related-projects)
+-   [Our examples](#our-examples)
+-   [Our publications](#our-publications)
 
 Usage
 --------------
