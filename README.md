@@ -28,6 +28,17 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
 
 
 - **Download**
+  - [BCPF_fiber_rmselb_m30_r5.csv](https://github.com/xinychen/academic-drawing/blob/master/curves/BCPF_fiber_rmselb_m30_r5.csv)
+  - [BCPF_fiber_rmselb_m30_r10.csv](https://github.com/xinychen/academic-drawing/blob/master/curves/BCPF_fiber_rmselb_m30_r10.csv)
+  - [overfitting.m](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting.m)
+
+and evaluate these in Matlab in a folder, then, you will see the following picture:
+
+![overfitting_ms30_r5](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting_ms30_r5.png)
+![overfitting_ms30_r10](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting_ms30_r10.png)
+
+
+- **Download**
   - [bias10.mat](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/bias10.mat)
   - [heat_map10.m](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.m)
 
