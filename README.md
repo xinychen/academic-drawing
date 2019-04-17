@@ -96,6 +96,14 @@ and evaluate these in Matlab, then, you will see the following picture:
 ![speed_curve](https://github.com/xinychen/academic-drawing/blob/master/time-series/speed_curve.png)
 
 
+- **Download**
+  - [nyc_data_completeness.mat](https://github.com/xinychen/academic-drawing/blob/master/time-series/nyc_data_completeness.mat)
+  - [nyc_data_completeness.m](https://github.com/xinychen/academic-drawing/blob/master/time-series/nyc_data_completeness.m)
+
+and evaluate these in Matlab, then, you will see the following picture:
+
+![nyc_data_completeness](https://github.com/xinychen/academic-drawing/blob/master/time-series/nyc_data_completeness.png)
+
 Our publications
 --------------
 
