@@ -22,7 +22,7 @@ Our examples
   - [mu10.mat](https://github.com/xinychen/academic-drawing/blob/master/curves/mu10.mat)
   - [mu_curve10.m](https://github.com/xinychen/academic-drawing/blob/master/curves/mu_curve10.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following picture:
+and evaluate these in Matlab, then, you will see the following picture:
 
 ![mu_curve10](https://github.com/xinychen/academic-drawing/blob/master/curves/mu_curve10.png)
 
@@ -32,10 +32,9 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
   - [BCPF_fiber_rmselb_m30_r10.csv](https://github.com/xinychen/academic-drawing/blob/master/curves/BCPF_fiber_rmselb_m30_r10.csv)
   - [overfitting.m](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following pictures:
+and evaluate these in Matlab, then, you will see the following pictures:
 
 ![overfitting_ms30_r5](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting_ms30_r5.png)
-
 ![overfitting_ms30_r10](https://github.com/xinychen/academic-drawing/blob/master/curves/overfitting_ms30_r10.png)
 
 
@@ -43,16 +42,26 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
   - [bias10.mat](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/bias10.mat)
   - [heat_map10.m](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following picture:
+and evaluate these in Matlab, then, you will see the following picture:
 
 ![heat_map10](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/heat_map10.png)
+
+
+- **Download**
+  - [latent_factors.mat](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/latent_factors.mat)
+  - [latent_factors.m](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/latent_factors.m)
+
+and evaluate these in Matlab, then, you will see the following pictures:
+
+  ![factor2](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/factor2.png)
+  ![factor3](https://github.com/xinychen/academic-drawing/blob/master/heat-maps/factor3.png)
 
 
 - **Download**
   - [rmse.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse.mat)
   - [rmse_curves.m](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curves.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following picture:
+and evaluate these in Matlab, then, you will see the following picture:
 
 ![rmse_curve](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve.png)
 
@@ -61,7 +70,7 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
   - [rmse10.mat](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse10.mat)
   - [rmse_curve10.m](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve10.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following picture:
+and evaluate these in Matlab, then, you will see the following picture:
 
 ![rmse_curve10](https://github.com/xinychen/academic-drawing/blob/master/rmse-curves/rmse_curve10.png)
 
@@ -71,7 +80,7 @@ and evaluate these in Matlab in a folder, then, you will see the following pictu
   - [time_series_speed1.py](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed1.py)
   - [time_series_speed2.py](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed2.py)
 
-and evaluate these in Python in a folder, then, you will see the following pictures:
+and evaluate these in Python, then, you will see the following pictures:
 
 ![time_series_speed1](https://github.com/xinychen/academic-drawing/blob/master/time-series/time_series_speed1.png)
 
@@ -82,7 +91,7 @@ and evaluate these in Python in a folder, then, you will see the following pictu
   - [road1_fiber_ms50_r10.csv](https://github.com/xinychen/academic-drawing/blob/master/time-series/road1_fiber_ms50_r10.csv)
   - [speed_curve.m](https://github.com/xinychen/academic-drawing/blob/master/time-series/speed_curve.m)
 
-and evaluate these in Matlab in a folder, then, you will see the following picture:
+and evaluate these in Matlab, then, you will see the following picture:
 
 ![speed_curve](https://github.com/xinychen/academic-drawing/blob/master/time-series/speed_curve.png)
 
